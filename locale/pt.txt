@@ -1,0 +1,26 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Rooftop em Manaus
+
+### Title
+tour.name = 291 Rooftop
+
+## Media
+
+### Title
+panorama_048373F8_0EA7_C1A0_41A5_6C41F78AB00A.label = 2
+panorama_0486B42E_0EA5_46A0_41AA_DA6432E8A230.label = 5
+panorama_048722FD_0EA7_43A0_419C_EE00CD2B97EE.label = 3
+panorama_048775EC_0EA4_C1A0_419D_59D789C7741D.label = 4
+panorama_05A89247_0EA7_42E0_41AC_809D49E3254D.label = 1
+
+## Action
+
+### URL
+LinkBehaviour_032A9E01_0EAB_4261_4191_7BBED466C89A.source = https://www.instagram.com/291rooftop/
+LinkBehaviour_03698E16_0EA4_C260_41AD_1239E2A759D5.source = https://goo.gl/maps/mMs5pVKQaB8ZLLbv5
+LinkBehaviour_1DB98479_0EE5_46A0_41A4_2561765A017D.source = https://goo.gl/maps/mMs5pVKQaB8ZLLbv5
+LinkBehaviour_1DBA5478_0EE5_46A0_41AB_940F63B71EE3.source = https://www.instagram.com/291rooftop/
