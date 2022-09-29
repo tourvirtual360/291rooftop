@@ -19,7 +19,7 @@ Button_67736086_7D2A_2615_41D6_CEC50644C618.label = REGISTRE SEU MOMENTO
 Button_91451ADC_8769_7DEC_41DD_5316619FAC16_mobile.label = LOUNGE RECEPÇÃO
 Button_914A0C64_8769_74DC_41D9_06DBABBD843B_mobile.label = SALÃO EXTERNO
 Button_914F7DC4_8769_77DC_41D3_B52D5B6562A2_mobile.label = SALÃO CLIMATIZADO
-Button_91F1D7BB_8769_13B4_41C3_5D968AA840EC_mobile.label = SALÃO VIP
+Button_91F1D7BB_8769_13B4_41C3_5D968AA840EC_mobile.label = SALA VIP
 Button_928E668C_8769_746C_41C5_5FA66759A009_mobile.label = REGISTRE SEU MOMENTO
 Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753.label = RESERVE SUA MESA
 Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753_mobile.label = RESERVE SUA MESA
@@ -47,6 +47,14 @@ panorama_77DD57EC_7D2E_EA15_41D5_0A3B4E388279.label = FOTO_3024
 panorama_77DD9793_7D2E_2A32_41D4_052127D2E967.label = FOTO_3023
 panorama_77DDE6BA_7D2E_6A7D_41DF_25E7CC90796E.label = FOTO_3021
 video_5D99DC41_7DFE_1E0E_419A_9078D87AF1C2.label = IMG_4334
+
+## Popup
+
+### Body
+htmlText_9AA89562_8B42_F157_41A1_713FB9B85DCB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Capacidade:</B> <I>13 Pessoas</I></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Informações:</B> <I>clique no botão</I></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B><I>Reserve Sua Mesa</I></B><I> neste</I></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><I> Tour Virtual e saiba mais.</I></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><I/></SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_9EF2834E_8B42_F16F_41DC_936AAD8784C7.title = SALA VIP
 
 ## Action
 

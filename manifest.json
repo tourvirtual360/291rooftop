@@ -1,9 +1,9 @@
 {
  "name": "291 Rooftop",
- "theme_color": "#FFFFFF",
  "description": "Gastronomy, drinks n’ music",
- "background_color": "#FFFFFF",
  "start_url": "index.htm",
+ "background_color": "#B77D82",
+ "theme_color": "#B77D82",
  "icons": [
   {
    "sizes": "150x150",
